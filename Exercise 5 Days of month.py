@@ -9,4 +9,4 @@ month_number=int(input("Enter the month number:"))
 if 1<=month_number<=12:
     print(f"The month{month_number}has {month_days[month_number]}days.")
 else:
-    print("Invalid number.Enter a number between 1 and 12.")
+    print("Invalid number!.Enter a number between 1 and 12.")
