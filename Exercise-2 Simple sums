@@ -1,7 +1,7 @@
 # Declaring and intializing variables
-num1=8
-num2=10
+a=8
+b=10
 # Declaring the third value that stores the sum
-sum_of_numbers=num1+num2
+sum_of_numbers=a+b
 #printing the sum to console
 print(sum_of_numbers)
